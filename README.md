@@ -5,6 +5,6 @@
 **So far it includes:**
 
 - Learning readme writing
-- git branching statrgies
+- git branching strategies
 - Creating resuable components in react
 - Material UI
